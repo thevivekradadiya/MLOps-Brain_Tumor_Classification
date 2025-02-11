@@ -1,0 +1,11 @@
+pydantic
+fastapi
+uvicorn[standard]
+pillow
+mlflow
+scikit-image
+tensorflow
+google-cloud-storage
+opencv-python-headless
+python-dotenv
+psycopg2
